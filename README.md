@@ -1,7 +1,6 @@
 # promt_engg_Introduction_plus_Guidelines
 ## AIM : 
-Aim : You'll iteratively analyze and refine your prompts to generate marketing copy from a product fact sheet.
-You will summarize the text with a focus on specific topics.
+Aim : Understand about prompt engineering and how we can ask question to LLM to get answer perfect and structure manner.
 
 ## References
   Introduction: https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction
